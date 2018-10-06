@@ -3,3 +3,7 @@ include/
 lib/
 pyvenv.cfg
 *.pycd
+*.pyc
+*.sqlite3
+pip-selfcheck.json
+*/__pycache__
